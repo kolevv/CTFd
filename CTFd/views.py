@@ -147,16 +147,13 @@ def setup():
     <div class="col-md-6 offset-md-3">
         <img class="w-100 mx-auto d-block" style="max-width: 500px;padding: 50px;padding-top: 14vh;" src="themes/core/static/img/logo.png" />
         <h3 class="text-center">
-            <p>A cool CTF platform from <a href="https://ctfd.io">ctfd.io</a></p>
-            <p>Follow us on social media:</p>
-            <a href="https://twitter.com/ctfdio"><i class="fab fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
-            <a href="https://facebook.com/ctfdio"><i class="fab fa-facebook fa-2x" aria-hidden="true"></i></a>&nbsp;
-            <a href="https://github.com/ctfd"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a>
+            <p>A capture the flag security challenge based on OWASP's Juice Shop</p>
+            <p>Follow these links for help:</p>
+            <a href="https://docs.google.com/presentation/d/1vuJ-7EgJ39ve_4hJPLjnToC8UriD-zP7GFS797R3zAA/edit?usp=sharing"></a> A slide deck explaining everything&nbsp;
+            <a href="http://7764c152-default-juicebala-7cd9-2014097495.eu-west-1.elb.amazonaws.com"></a> Link to the Juice Shop instance that you're going to break &nbsp;
+            <p>Do join #and-ctf on Kilburn's Slack for help and discussion</p>
         </h3>
         <br>
-        <h4 class="text-center">
-            <a href="admin">Click here</a> to login and setup your CTF
-        </h4>
     </div>
 </div>"""
 
